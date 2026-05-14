@@ -32,5 +32,6 @@ Tik op de knop **Letters instellen** (rechtsboven) om de instellingen te openen.
 
 ## Broncode & licentie
 
+- Hosting:  https://sneyders.github.io/klikklak/klikklak.html
 - Broncode: https://github.com/sneyders/klikklak
 - Licentie: GNU General Public License v3.0
